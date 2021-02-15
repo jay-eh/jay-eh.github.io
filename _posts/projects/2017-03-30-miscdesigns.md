@@ -15,6 +15,15 @@ project:
 
 images:
   - image:
+    url: "/assets/images/projects/miscdesign/Dougie.jpg"
+    alt: ""
+  - image:
+    url: "/assets/images/projects/miscdesign/LeafsxAvengers_1350x1080.png"
+    alt: ""
+  - image:
+    url: "/assets/images/projects/miscdesign/Kadri.jpg"
+    alt: ""
+  - image:
     url: "/assets/images/projects/miscdesign/vince-carter-wallpaper.jpg"
     alt: ""
   - image:
