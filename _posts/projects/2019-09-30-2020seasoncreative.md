@@ -45,4 +45,4 @@ images:
     url: "/assets/images/projects/2020seasoncreative/season-package-10.jpg"
     alt: "" 
 ---
-<p>For the 2019-20 season, we continued to build on the brand identity established in the previous season. I wanted to showcase the season ticket package, as it would be the last one our team put together before the Maple Leafs moved to a digital ticketing system.</p>
+<p>For the 2019-20 season, our team continued to build on the brand identity established in the previous season. Here I showcase the season ticket package, as it would be the last one our team put together before the Maple Leafs moved to a digital ticketing system.</p>
