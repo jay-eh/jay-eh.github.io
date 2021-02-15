@@ -18,7 +18,7 @@ images:
     url: "/assets/images/projects/miscdesign/Dougie.jpg"
     alt: ""
   - image:
-    url: "/assets/images/projects/miscdesign/LeafsxAvengers_1350x1080.png"
+    url: "/assets/images/projects/miscdesign/LeafsxAvengers_1350x1080.jpg"
     alt: ""
   - image:
     url: "/assets/images/projects/miscdesign/Kadri.jpg"
